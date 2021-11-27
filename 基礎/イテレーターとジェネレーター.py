@@ -11,7 +11,7 @@ print(next(colors_iter))
 print(next(colors_iter))
 print(next(colors_iter))
 print(next(colors_iter))
-# print(next(colors_iter)) StopIteration Error
+# print(next(colors_iter))  # StopIteration Error
 print()
 
 

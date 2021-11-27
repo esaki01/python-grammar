@@ -1,5 +1,6 @@
 """
 デコレータ: 既存関数の処理の前後に処理を付け加えることができる.
+https://qiita.com/mtb_beta/items/d257519b018b8cd0cc2e
 """
 
 
